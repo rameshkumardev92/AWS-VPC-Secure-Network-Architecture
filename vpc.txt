@@ -1,0 +1,11 @@
+Steps:
+
+1. Created a custom VPC with CIDR block.
+2. Designed public and private subnets across Availability Zones.
+3. Configured Internet Gateway (IGW) for public subnet access.
+4. Set up NAT Gateway to allow private subnet internet access.
+5. Created and associated Route Tables.
+6. Configured Security Groups for instance – level access control.
+7. Launched EC2 instances in public and private subnets.
+8. Tested connectivity using SSH, and HTTP.
+
