@@ -36,6 +36,4 @@ Secure AWS VPC design with public and private subnets
   - SSH from public instance to private instance
   - Internet access test from private subnet via NAT
   - HTTP webserver validation
-  - Traffic monitoring using VPC Flow Logs.
-
-- 
+  - Traffic monitoring using VPC Flow Logs
