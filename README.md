@@ -1,9 +1,9 @@
 # AWS-VPC-Secure-Network-Architecture
 Secure AWS VPC design with public and private subnets
 --Project Overview
-This Project demonstrates the design and implementation of a secure AWS Virtual Private Cloud (VPC) architecture.  The infrastructure includes public and private subnets, controlled internet access, and multiple security layers following AWS best practices.
+- This Project demonstrates the design and implementation of a secure AWS Virtual Private Cloud (VPC) architecture.  The infrastructure includes public and private subnets, controlled internet access, and multiple security layers following AWS best practices.
 
-The goal of this project is to build a secure, scalable, and production-ready network enviornment
+- The goal of this project is to build a secure, scalable, and production-ready network enviornment
 
 --Tools & Services Used
 - AWS VPC
